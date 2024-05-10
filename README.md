@@ -80,4 +80,5 @@ endmodule
 ![Screenshot 2024-05-10 214938](https://github.com/Yogesh-Yogi-1/SR-FLIPFLOP-USING-CASE/assets/148514598/1030dde4-ca16-47ee-ac07-e296294060ce)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
